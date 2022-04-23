@@ -21,3 +21,4 @@ I have done countless projects over the years, some are listed down below.
 | twfhn | A visualization of the classic game Tower of Hanoi. | [GitHub](https://github.com/locxter/twrfhn) |
 | chngclcltr | A very simple GUI program for calculating the change from a price and the money given. | [GitHub](https://github.com/locxter/chngclcltr) |
 | mcrpd | A simple customizable macro keypad I have designed and built. | [GitHub](https://github.com/locxter/mcrpd) |
+| xrcsbkgmpd | A exercise bike gamepad I designed.  | [GitHub](https://github.com/locxter/xrcsbkgmpd) |
