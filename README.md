@@ -19,6 +19,7 @@ I have done countless projects over the years, some are listed down below.
 | jgswpzzlbt | A jigsaw puzzle solving robot programmed in C++ using OpenCV and a custom Arduino firmware. | [GitHub](https://github.com/locxter/jgswpzzlbt) |
 | pmdrtmr | A simple user based Pomodoro timer with CalDAV integration, which I build during my work placement at the [KDO](https://www.kdo.de). | [GitHub backend](https://github.com/locxter/pmdrtmr-backend), [GitHub frontend](https://github.com/locxter/pmdrtmr-frontend) and [GitHub CLI](https://github.com/locxter/pmdrtmr-cli) |
 | twfhn | A visualization of the classic game Tower of Hanoi. | [GitHub](https://github.com/locxter/twrfhn) |
+| scrtcrtr | This is a very simple GUI based ASCII art creator. | [GitHub](https://github.com/locxter/scrtcrtr) |
 | chngclcltr | A very simple GUI program for calculating the change from a price and the money given. | [GitHub](https://github.com/locxter/chngclcltr) |
 | mcrpd | A simple customizable macro keypad I have designed and built. | [GitHub](https://github.com/locxter/mcrpd) |
 | xrcsbkgmpd | A exercise bike gamepad I designed.  | [GitHub](https://github.com/locxter/xrcsbkgmpd) |
