@@ -16,7 +16,7 @@ I have done countless projects over the years, some are listed down below.
 
 | Name: | Description: | Link: |
 | --- | --- | --- |
-| bkpvdsply | A bike POV display using widely available parts. | [GitHub](https://github.com/locxter/bkpvdsply) |
+| bkpvdsply | A bike POV display using readily available parts. | [GitHub](https://github.com/locxter/bkpvdsply) |
 | btvcbrdg | An ESP8266 bridge for communicating to Neato Botvac robot vacuums over the network. | [GitHub](https://github.com/locxter/btvcbrdg) |
 | btvccntrl | A GUI program for controlling Neato Botvac robot vacuums. | [GitHub](https://github.com/locxter/btvccntrl) |
 | chngclcltr | A GUI program for calculating the change from a price and the money given. | [GitHub](https://github.com/locxter/chngclcltr) |
