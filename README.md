@@ -25,5 +25,6 @@ I have done countless projects over the years, some are listed down below.
 | mcrpd | A customizable macro keypad I have designed and built. | [GitHub](https://github.com/locxter/mcrpd) |
 | pmdrtmr | A user based Pomodoro timer with CalDAV integration, which I build during my work placement at the [KDO](https://www.kdo.de). | [GitHub backend](https://github.com/locxter/pmdrtmr-backend), [GitHub frontend](https://github.com/locxter/pmdrtmr-frontend) and [GitHub CLI](https://github.com/locxter/pmdrtmr-cli) |
 | scrtcrtr | A GUI based ASCII art creator. | [GitHub](https://github.com/locxter/scrtcrtr) |
+| svnsgmntdsply | A simple ESP8266-driven seven-segment display. | [GitHub](https://github.com/locxter/svnsgmntdsply) |
 | twfhn | A visualization of the classic game Tower of Hanoi. | [GitHub](https://github.com/locxter/twrfhn) |
 | xrcsbkgmpd | A exercise bike gamepad I designed.  | [GitHub](https://github.com/locxter/xrcsbkgmpd) |
