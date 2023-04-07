@@ -8,7 +8,7 @@ This is locxter's small space on GitHub. [Take a look!](https://github.com/locxt
 
 My name is Luca Schultz and I am the person behind the pseudonym locxter. As a technology enthusiast from Nothern Germany I love to tinker and find new ways of doing stuff. In my 8 years of programming and doing electronics projects I have slowly found love for writing simple and clean yet effective code, doing every part of a project I reasonably can on my own and using privacy respecting as well as **FOSS** software.
 
-I am currently working with **C++** as my primary programming language, but also write some Java as well as JavaScript code from time to time. Other than that I prefer to use FreeCAD for designing parts, Inkscape for creating vector graphics and VSCodium as my text editor as well as IDE. My desktop operating system is Linux Mint while I run CalyxOS on my phone.
+I am currently in the progress of switching to **Kotlin** as my primary programming language, but have extensively worked with **C++** in the past and also write some Java, Rust as well as JavaScript/TypeScript code from time to time. Other than that I prefer to use FreeCAD for designing parts, Inkscape for creating vector graphics, VSCodium as my text editor as well as C++/Rust/JavaScript/TypeScript IDE and IntelliJ IDEA as my Kotlin/Java IDE. My desktop operating system is heavily customized Linux Mint while I run CalyxOS on my phone.
 
 ## Portfolio
 
