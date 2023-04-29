@@ -16,6 +16,7 @@ I have done countless projects over the years, some are listed down below.
 
 | Name: | Description: | Link: |
 | --- | --- | --- |
+| bkndmvrgnzr | A simple and open source book and movie organizer, which I started building during my work placement at [CEWE](https://www.cewe.de/) | [GitHub backend](https://github.com/locxter/bkndmvrgnzr-backend), [GitHub frontend](https://github.com/locxter/bkndmvrgnzr-frontend) |
 | bkpvdsply | A bike POV display using readily available parts. | [GitHub](https://github.com/locxter/bkpvdsply) |
 | btvcbrdg | An ESP8266 bridge for communicating to Neato Botvac robot vacuums over the network. | [GitHub](https://github.com/locxter/btvcbrdg) |
 | btvccntrl | A GUI program for controlling Neato Botvac D85 robot vacuums. | [GitHub](https://github.com/locxter/btvccntrl) |
