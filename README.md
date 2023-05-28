@@ -22,7 +22,7 @@ I have done countless projects over the years, some are listed down below.
 | btvccntrl | A GUI program for controlling Neato Botvac D85 robot vacuums. | [GitHub NG](https://github.com/locxter/btvccntrl-ng), [GitHub](https://github.com/locxter/btvccntrl) |
 | chngclcltr | A GUI program for calculating the change from a price and the money given. | [GitHub](https://github.com/locxter/chngclcltr) |
 | dcmntscnnr | A GUI program for scanning documents. | [GitHub NG](https://github.com/locxter/dcmntscnnr-ng), [GitHub](https://github.com/locxter/dcmntscnnr) |
-| jgswpzzlbt | A jigsaw puzzle solving robot programmed in C++ using OpenCV and a custom Arduino firmware. | [GitHub NG](https://github.com/locxter/jgswpzzlbt-ng), [GitHub](https://github.com/locxter/jgswpzzlbt) |
+| jgswpzzlbt | A jigsaw puzzle solving robot programmed in C++ using OpenCV and a custom Arduino firmware. | [GitHub](https://github.com/locxter/jgswpzzlbt) |
 | mcrpd | A customizable macro keypad I have designed and built. | [GitHub](https://github.com/locxter/mcrpd) |
 | pmdrtmr | A user based Pomodoro timer with CalDAV integration, which I build during my work placement at the [KDO](https://www.kdo.de). | [GitHub backend](https://github.com/locxter/pmdrtmr-backend), [GitHub frontend](https://github.com/locxter/pmdrtmr-frontend) and [GitHub CLI](https://github.com/locxter/pmdrtmr-cli) |
 | scrtcrtr | A GUI based ASCII art creator. | [GitHub NG](https://github.com/locxter/scrtcrtr-ng), [GitHub](https://github.com/locxter/scrtcrtr) |
