@@ -21,6 +21,7 @@ I have done countless projects over the years, some are listed down below.
 | btvcbrdg | An ESP8266 bridge for communicating to Neato Botvac robot vacuums over the network. | [GitHub](https://github.com/locxter/btvcbrdg) |
 | btvccntrl | A GUI program for controlling Neato Botvac D85 robot vacuums. | [GitHub NG](https://github.com/locxter/btvccntrl-ng), [GitHub](https://github.com/locxter/btvccntrl) |
 | chngclcltr | A GUI program for calculating the change from a price and the money given. | [GitHub](https://github.com/locxter/chngclcltr) |
+| chtgpttlbx | An extensible GUI ChatGPT toolbox. | [GitHub](https://github.com/locxter/chtgpttlbx) |
 | dcmntscnnr | A GUI program for scanning documents. | [GitHub NG](https://github.com/locxter/dcmntscnnr-ng), [GitHub](https://github.com/locxter/dcmntscnnr) |
 | jgswpzzlbt | A jigsaw puzzle solving robot programmed in C++ using OpenCV and a custom Arduino firmware. | [GitHub](https://github.com/locxter/jgswpzzlbt) |
 | mcrpd | A customizable macro keypad I have designed and built. | [GitHub](https://github.com/locxter/mcrpd) |
