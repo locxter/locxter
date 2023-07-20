@@ -29,4 +29,5 @@ I have done countless projects over the years, some are listed down below.
 | scrtcrtr | A GUI based ASCII art creator. | [GitHub NG](https://github.com/locxter/scrtcrtr-ng), [GitHub](https://github.com/locxter/scrtcrtr) |
 | svnsgmntdsply | A simple ESP8266-driven seven-segment display. | [GitHub](https://github.com/locxter/svnsgmntdsply) |
 | twfhn | A visualization of the classic game Tower of Hanoi. | [GitHub NG](https://github.com/locxter/twrfhn-ng), [GitHub](https://github.com/locxter/twrfhn) |
-| xrcsbkgmpd | An exercise bike gamepad I designed.  | [GitHub](https://github.com/locxter/xrcsbkgmpd) |
+| xrcsbkgmpd | An exercise bike gamepad I designed. | [GitHub](https://github.com/locxter/xrcsbkgmpd) |
+| pcmn3d | A 3D remake of the classic arcade game Pacman using Unity. | [GitHub](https://github.com/locxter/pcmn3d) |
