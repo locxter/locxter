@@ -80,7 +80,7 @@ I have done countless projects over the years, some are listed down below.
 | chngclcltr | A GUI program for calculating the change from a price and the money given. | [GitHub](https://github.com/locxter/chngclcltr) |
 | chtgpttlbx | An extensible GUI ChatGPT toolbox. | [GitHub](https://github.com/locxter/chtgpttlbx) |
 | dcmntscnnr | A GUI program for scanning documents. | [GitHub NG](https://github.com/locxter/dcmntscnnr-ng), [GitHub](https://github.com/locxter/dcmntscnnr) |
-| [dramanumbers](https://dramanumbers.github.io/) | A simple yet effective anti spam call site providing the official German drama numbers ment for media productions to everyone. | [GitHub](https://github.com/dramanumbers/dramanumbers.github.io) |
+| [dramanumbers](https://dramanumbers.org/) | A simple yet effective anti spam call site providing the official German drama numbers ment for media productions to everyone. | [GitHub](https://github.com/dramanumbers/dramanumbers.github.io) |
 | jgswpzzlbt | A jigsaw puzzle solving robot programmed in C++ using OpenCV and a custom Arduino firmware. | [GitHub](https://github.com/locxter/jgswpzzlbt) |
 | mcrpd | A customizable macro keypad I have designed and built. | [GitHub](https://github.com/locxter/mcrpd) |
 | pcmn3d | A 3D remake of the classic arcade game Pacman using Unity, all built during my work placement at [ise](https://www.ise.de/). | [GitHub](https://github.com/locxter/pcmn3d) |
