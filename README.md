@@ -15,7 +15,7 @@ Nobody likes to read unnecessarily long self-descriptions about every aspect of 
 
 In my 9 years of programming and doing electronics projects I have slowly found love for writing simple and clean yet effective code, doing every part of a project I reasonably can on my own and using privacy respecting as well as **FOSS** software.
 
-I am currently using **Kotlin** as my primary programming language, but have extensively worked with **C++** in the past and also write some Java, Rust as well as JavaScript/TypeScript code from time to time. Other than that I prefer to use FreeCAD for designing parts, Inkscape for creating vector graphics, VSCodium as my text editor as well as C++/Rust/JavaScript/TypeScript IDE and IntelliJ IDEA as my Kotlin/Java IDE. My desktop operating system is heavily customized Linux Mint while I run CalyxOS on my phone.
+I am currently using **Kotlin** as my primary programming language, but have extensively worked with **C++** in the past and also write some Java, Rust as well as JavaScript/TypeScript code from time to time. Other than that I prefer to use FreeCAD for designing parts, Inkscape for creating vector graphics, VSCodium as my text editor as well as C++/Rust/JavaScript/TypeScript IDE and IntelliJ IDEA as my Kotlin/Java IDE. My desktop operating system is customized Pop!_OS (awaiting the release of COSMIC) while I run CalyxOS on my phone.
 
 </details>
 
