@@ -24,7 +24,7 @@ I am currently using **Kotlin** as my primary programming language, but have ext
 
 One of the things that drives me the most is the desire to change something that I consider meaningful within my lifetime. One day I noticed that **we don't have too little time in our lifes, but just don't use enough of it** - which then introduced me to the productivity community.
 
-Nowadays, I'm still very much in the process of leveling-up my productivity game, but consider this journey to be its own dedicated hobby of mine and an important aspect of who I am. That's also why this topic gets roughly the as much attention on my blog as technology - sometimes a little more, sometimes a little less.
+Nowadays, I'm still very much in the process of leveling-up my productivity game, but consider this journey to be its own dedicated hobby of mine and an important aspect of who I am. That's also why this topic gets roughly as much attention on my blog as technology - sometimes a little more, sometimes a little less.
 
 </details>
 
