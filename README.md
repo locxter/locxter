@@ -76,6 +76,7 @@ I have done countless projects over the years, some are listed down below.
 | [BikeBeamer](https://bikebeamer.com) | My next generation of bike POV displays with extended functionality, a more polished design and an easier user-experience. | [GitHub](https://github.com/BikeBeamer/BikeBeamer) |
 | bkndmvrgnzr | A simple and open source book and movie organizer, which I started building during my work placement at [CEWE](https://www.cewe.de/). | [GitHub backend](https://github.com/locxter/bkndmvrgnzr-backend), [GitHub frontend](https://github.com/locxter/bkndmvrgnzr-frontend) |
 | bkpvdsply | A bike POV display using readily available parts. | [GitHub](https://github.com/locxter/bkpvdsply) |
+| BotvacCenter | A Kotlin Multiplatform app for controlling and experimenting with Neato Botvac D85 robot vacuums. | [GitHub](https://github.com/locxter/BotvacCenter) |
 | btvcbrdg | An ESP8266 bridge for communicating to Neato Botvac robot vacuums over the network. | [GitHub](https://github.com/locxter/btvcbrdg) |
 | btvccntrl | A GUI program for controlling Neato Botvac D85 robot vacuums. | [GitHub NG](https://github.com/locxter/btvccntrl-ng), [GitHub](https://github.com/locxter/btvccntrl) |
 | chngclcltr | A GUI program for calculating the change from a price and the money given. | [GitHub](https://github.com/locxter/chngclcltr) |
