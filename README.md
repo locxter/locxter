@@ -79,15 +79,11 @@ I have done countless projects over the years, some are listed down below.
 | BotvacCenter | A Kotlin Multiplatform app for controlling and experimenting with Neato Botvac D85 robot vacuums. | [GitHub](https://github.com/locxter/BotvacCenter) |
 | btvcbrdg | An ESP8266 bridge for communicating to Neato Botvac robot vacuums over the network. | [GitHub](https://github.com/locxter/btvcbrdg) |
 | btvccntrl | A GUI program for controlling Neato Botvac D85 robot vacuums. | [GitHub NG](https://github.com/locxter/btvccntrl-ng), [GitHub](https://github.com/locxter/btvccntrl) |
-| chngclcltr | A GUI program for calculating the change from a price and the money given. | [GitHub](https://github.com/locxter/chngclcltr) |
 | chtgpttlbx | An extensible GUI ChatGPT toolbox. | [GitHub](https://github.com/locxter/chtgpttlbx) |
 | dcmntscnnr | A GUI program for scanning documents. | [GitHub NG](https://github.com/locxter/dcmntscnnr-ng), [GitHub](https://github.com/locxter/dcmntscnnr) |
 | [DramaNumbers](https://dramanumbers.org/) | A simple yet effective anti spam call site providing the official German drama numbers ment for media productions to everyone. | [GitHub](https://github.com/DramaNumbers/dramanumbers.github.io) |
 | jgswpzzlbt | A jigsaw puzzle solving robot programmed in C++ using OpenCV and a custom Arduino firmware. | [GitHub](https://github.com/locxter/jgswpzzlbt) |
-| mcrpd | A customizable macro keypad I have designed and built. | [GitHub](https://github.com/locxter/mcrpd) |
 | pcmn3d | A 3D remake of the classic arcade game Pacman using Unity, all built during my work placement at [ise](https://www.ise.de/). | [GitHub](https://github.com/locxter/pcmn3d) |
 | pmdrtmr | A user based Pomodoro timer with CalDAV integration, which I build during my work placement at the [KDO](https://www.kdo.de). | [GitHub backend](https://github.com/locxter/pmdrtmr-backend), [GitHub frontend](https://github.com/locxter/pmdrtmr-frontend) and [GitHub CLI](https://github.com/locxter/pmdrtmr-cli) |
 | scrtcrtr | A GUI based ASCII art creator. | [GitHub NG](https://github.com/locxter/scrtcrtr-ng), [GitHub](https://github.com/locxter/scrtcrtr) |
-| svnsgmntdsply | A simple ESP8266-driven seven-segment display. | [GitHub](https://github.com/locxter/svnsgmntdsply) |
 | twfhn | A visualization of the classic game Tower of Hanoi. | [GitHub NG](https://github.com/locxter/twrfhn-ng), [GitHub](https://github.com/locxter/twrfhn) |
-| xrcsbkgmpd | An exercise bike gamepad I designed. | [GitHub](https://github.com/locxter/xrcsbkgmpd) |
